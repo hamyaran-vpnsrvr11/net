@@ -124,3 +124,11 @@
     padding: 5px;
     border-radius: 25px;
 }
+.toman-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  fill: currentColor; /* یا رنگ دلخواه مثل: #333 */
+  margin-right: 4px;
+}
+
