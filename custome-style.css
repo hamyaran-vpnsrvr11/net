@@ -116,8 +116,11 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 .original-price {
-    text-decoration: line-through;
-    color: #999;
-    margin-left: 10px;
-    font-size: 0.9em;
+   text-decoration: line-through;
+    color: #3b3b3b;
+    margin-left: 5px;
+    font-size: 0.8em;
+    background: #ffffff;
+    padding: 5px;
+    border-radius: 25px;
 }
